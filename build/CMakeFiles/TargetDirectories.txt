@@ -1,0 +1,3 @@
+/home/kaito/program/Tetris/build/CMakeFiles/rebuild_cache.dir
+/home/kaito/program/Tetris/build/CMakeFiles/cmake_test.dir
+/home/kaito/program/Tetris/build/CMakeFiles/edit_cache.dir
